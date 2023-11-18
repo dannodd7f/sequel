@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
